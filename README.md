@@ -29,3 +29,6 @@ This project is a desktop weather widget created with Python's Tkinter library. 
    python weather_widget.py
 2. Select a city from the dropdown menu.
 3. Click the "Get Weather" button to fetch and display the weather information.
+
+
+![weather-app](https://github.com/user-attachments/assets/cdb00ef3-6782-4da7-b1a6-13d517f03036)
